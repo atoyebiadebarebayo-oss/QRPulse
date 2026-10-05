@@ -2,7 +2,7 @@
 
 A sleek, lightweight, and customizable QR code generator micro-SaaS designed for creators, digital storefronts, and business owners.
 
-![QR Pulse Preview] https://qrpulse-chi.vercel.app/
+![QR Pulse Preview] https://qrpulse-chi.vercel.app
 
 ## ✨ Features
 * 🎨 **Custom Styling**: Change foreground and background colors to match your brand palette.
@@ -19,4 +19,4 @@ A sleek, lightweight, and customizable QR code generator micro-SaaS designed for
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/atoyebiadebarebayo-oss/QRPulse.git](https://qrpulse-chi.vercel.app/)
+   https://qrpulse-chi.vercel.app
